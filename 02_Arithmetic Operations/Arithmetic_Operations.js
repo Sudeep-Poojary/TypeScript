@@ -1,0 +1,12 @@
+var num1 = 10;
+var num2 = 20;
+var sum = num1 + num2;
+var sub = num1 + num2;
+var mul = num1 * num2;
+var div = num1 / num2;
+var mod = num1 % num2;
+console.log("Addition of ".concat(num1, " and ").concat(num2, " is ").concat(sum));
+console.log("Subtraction of ".concat(num1, " and ").concat(num2, " is ").concat(sub));
+console.log("Multiplication of ".concat(num1, " and ").concat(num2, " is ").concat(mul));
+console.log("Division of ".concat(num1, " and ").concat(num2, " is ").concat(div));
+console.log("Modulus of ".concat(num1, " and ").concat(num2, " is ").concat(mod));
